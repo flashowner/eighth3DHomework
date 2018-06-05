@@ -15,3 +15,4 @@ Vertical Layout Group组件用来设置内容的排版，在这里内容区域�
 ![](https://github.com/flashowner/eighth3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B73.PNG)<br>
 ![](https://github.com/flashowner/eighth3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B74.PNG)<br>
 ![](https://github.com/flashowner/eighth3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B75.PNG)<br>
+演示视频：http://v.youku.com/v_show/id_XMzY0NzQ1ODYwNA==.html?spm=a2hzp.8244740.0.0
